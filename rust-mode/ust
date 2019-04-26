@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ust
+# key: ust
+# --
+use std::$0
